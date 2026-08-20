@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary directories & logs
+*.log
+.tmp/
+tmp/
+scratch/
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db

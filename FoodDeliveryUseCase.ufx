@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umlet_diagram>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>50</x><y>50</y><w>60</w><h>120</h>
+    </coordinates>
+    <panel_attributes>Customer</panel_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>50</x><y>250</y><w>60</w><h>120</h>
+    </coordinates>
+    <panel_attributes>Restaurant</panel_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>750</x><y>50</y><w>60</w><h>120</h>
+    </coordinates>
+    <panel_attributes>Admin</panel_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>750</x><y>250</y><w>60</w><h>120</h>
+    </coordinates>
+    <panel_attributes>Delivery Partner</panel_attributes>
+  </element>
+
+  <!-- Use Cases -->
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>40</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Register / Login</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>90</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Browse Menu</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>140</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Place Order</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>190</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Track Order</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>240</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Add Menu Item</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>290</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Manage Orders</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>340</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Assign Delivery</panel_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>350</x><y>390</y><w>140</w><h>40</h>
+    </coordinates>
+    <panel_attributes>Deliver Order</panel_attributes>
+  </element>
+
+  <!-- Associations -->
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>110</x><y>60</y><w>240</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>110</x><y>100</y><w>240</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>110</x><y>140</y><w>240</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>110</x><y>180</y><w>240</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>110</x><y>260</y><w>240</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>110</x><y>300</y><w>240</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>490</x><y>300</y><w>260</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>490</x><y>340</y><w>260</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+  <element>
+    <id>UMLLine</id>
+    <coordinates><x>490</x><y>390</y><w>260</w><h>40</h></coordinates>
+    <panel_attributes></panel_attributes>
+  </element>
+</umlet_diagram>
